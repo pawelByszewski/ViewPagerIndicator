@@ -76,7 +76,7 @@ a dependency:
       <groupId>com.viewpagerindicator</groupId>
       <artifactId>library</artifactId>
       <version>2.4.1</version>
-      <type>apklib</type>
+      <type>aar</type>
     </dependency>
 
 This project depends on the `ViewPager` class which is available in the
